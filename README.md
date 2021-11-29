@@ -8,25 +8,25 @@
 
 </h1>
 
-[![DORABOT](https://telegra.ph/file/74b259dcd0be47d3e3a74.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![DORABOT](https://telegra.ph/file/74b259dcd0be47d3e3a74.jpg)](https://github.com/Zacky1239/DORA-USERBOT)
 
 <h6 align="center">
 
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ DORAUSERBOT Is One Of The Fastest & Best Bot On Telegram Based on Telethon⚡</b>
 
 </h6>
 
 <p align="center">
 
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/Zacky1239/DORA-USERBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/ZACKY1239/DORA-USERBOT?style=flat&logo=github&color=success" /> </a>
 
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/Zacky1239/DORA-USERBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/Zacky1239/DORA-USERBOT?style=flat&logo=github" /> </a>
 
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/Zacky1239/DORA-USERBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/Zacky1239/DORA-USERBOT?label=Forks&logo=github" /> </a>
 
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
+<a href="https://github.com/Zacky1239/DORA-USERBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/Zacky1239/DORA-USERBOT?color=success" /> </a>
 
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/Zacky1239/DORA-USERBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/Zacky1239/DORA-USERBOT?style=flat&logo=github&color=yellow" /> </a>
 
 </p>
 
@@ -34,11 +34,11 @@
 
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
 
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/Zacky1239/DORA-USERBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
 
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGEND-OS/LEGENDBOT" /> </a>
+<a href="https://github.com/Zacky1239/DORA-USERBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/Zacky1239/DORA-USERBOT" /> </a>
 
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/Zacky1239/DORA-USERBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 
 </p>
 
