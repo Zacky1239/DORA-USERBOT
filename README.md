@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @teri_behn_ka_bf (gopal) i am active on tele and any inquiry to contact me in my group and thorugha the my username (@full_msti)
-- 😝and and this repository is made by your support 👦 guys so
--[this is our very powerfull bot 0n telegram]
-_ be carefull by our bot your od is safe don't like other bots yoi get acct deleted
-<h1 align="center">
+
+ 
+
+
+
 
 <b> 『☠𝗗𝗢𝗥𝗔𝗕𝗢𝗧☠︎︎』🇮🇳 </b>
 
