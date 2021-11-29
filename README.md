@@ -4,11 +4,11 @@
 _ be carefull by our bot your od is safe don't like other bots yoi get acct deleted
 <h1 align="center">
 
-<b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
+<b> 『☠𝗗𝗢𝗥𝗔𝗕𝗢𝗧☠︎︎』🇮🇳 </b>
 
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![DORABOT](https://telegra.ph/file/74b259dcd0be47d3e3a74.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
 <h6 align="center">
 
